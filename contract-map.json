@@ -1,11 +1,11 @@
 {
-  "0xaeDf386B755465871fF874E3E37Af5976E247064": {
-    "name": "Fasttoken",
-    "logo": "ftn.svg",
+  "0x471bc0199e1b866b16827b9c4512daf1f6d53ca1": {
+    "name": "MMRL Loyalty Token",
+    "logo": "MMRL.svg",
     "erc20": true,
-    "symbol": "FTN",
+    "symbol": "MMRL",
     "decimals": 18
-  },
+  }
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
     "name": "Gearbox",
     "logo": "gear.svg",
